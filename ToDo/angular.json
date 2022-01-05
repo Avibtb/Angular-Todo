@@ -3,7 +3,7 @@
     "version": 1,
     "newProjectRoot": "projects",
     "projects": {
-        "cwh-todo-list": {
+        "Todo": {
             "projectType": "application",
             "schematics": {},
             "root": "",
